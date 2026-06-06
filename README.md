@@ -64,8 +64,8 @@ Trabajo en el desarrollo de páginas web para negocios, landing pages, portafoli
 ## Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=esadortiz&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub de David Ortiz" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=esadortiz&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más usados por David Ortiz" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=esadortiz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" alt="Estadísticas de GitHub de David Ortiz" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=esadortiz&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=html" alt="Lenguajes más usados por David Ortiz" />
 </p>
 
 ---
